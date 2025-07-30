@@ -1,0 +1,1 @@
+worker: python secretary_bot.py 
